@@ -15,8 +15,10 @@ Os principais campos são ID, nome, data_nascimento.
 - Professor coordena turma
 - Aluno cursa disciplina
 
-## Modelo lógico 
+## ⇨ Modelo Lógico 
+![](https://github.com/Pamela-fc/Banco-de-dados/blob/main/modelo_logico.png)
 
 
-## Modelo Conceitual
 
+## ⇨ Modelo Conceitual
+![](https://github.com/Pamela-fc/Banco-de-dados/blob/main/modelo_conceitual.png)
